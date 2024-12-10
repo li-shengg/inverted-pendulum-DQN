@@ -1,8 +1,13 @@
 # inverted-pendulum-DQN
  A Reinforcement Learning model (DQN) addressing the inverted pendulum problem
 
- # Usage 
+# Usage 
+---
 
- # Overview
+# Overview
+---
 
- 
+# Results
+---
+
+
