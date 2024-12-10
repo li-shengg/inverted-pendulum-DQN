@@ -9,13 +9,17 @@ This project implements a Deep Q-Network (DQN) to balance an inverted pendulum. 
 
 Install the required dependencies by running the following command:
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 # Train
 
 To train the DQN model, execute the following command from the root directory:
 
-`python main.py`
+```
+python main.py
+```
 
 Training progress and results (plots and animations) will be saved in the visualizations folder.
 
