@@ -34,7 +34,7 @@ Training progress and results (plots and animations) will be saved in the visual
 
 # Licence
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 # Author 
 
